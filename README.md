@@ -1,1 +1,1 @@
-# Pages
+# [Pages](http://night-cord.ml/)
