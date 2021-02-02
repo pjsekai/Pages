@@ -38,11 +38,11 @@ a:hover {
 	color: #448db3;			/*マウスオン時の文字色*/
 	text-decoration: none;	/*マウスオン時に下線を消す設定。残したいならこの１行削除。*/
 }
-.channel a {
+.channel {
 	color: #0000FF;
 	text-decoration:none;
 }
-.channel a:hover {
+.channel:hover {
 	color: #0000FF;
 	text-decoration:none;
 }
