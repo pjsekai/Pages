@@ -40,6 +40,7 @@ a:hover {
 }
 .channel {
 	color: #00bfff;
+	background-color:87cefa;
 	text-decoration:none;
 }
 .channel:hover {
