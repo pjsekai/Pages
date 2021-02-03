@@ -40,12 +40,12 @@ a:hover {
 }
 .channel {
 	color: #00bfff;
-	background-color:#87cefa;
+	background-color:#e0ffff;
 	text-decoration:none;
 }
 .channel:hover {
 	color: #0000FF;
-	background-color:#87cefa;
+	background-color:#e0ffff;
 	text-decoration:none;
 }
 /*container。サイト全体を囲むブロック
