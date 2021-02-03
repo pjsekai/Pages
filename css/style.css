@@ -42,6 +42,7 @@ a:hover {
 	color: #00bfff;
 	background-color:#e0ffff;
 	text-decoration:none;
+	padding: 5px 5px;
 }
 .channel:hover {
 	color: #0000FF;
