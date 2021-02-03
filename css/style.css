@@ -39,7 +39,7 @@ a:hover {
 	text-decoration: none;	/*マウスオン時に下線を消す設定。残したいならこの１行削除。*/
 }
 .channel {
-	color: #00bfff;
+	color: #1e90ff;
 	background-color:#e0ffff;
 	text-decoration:none;
 	padding: 5px 5px;
